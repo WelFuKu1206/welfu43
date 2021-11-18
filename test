@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>《Story》</title>
+	<h1 style="background-color:#ADADAD;"><center>故事的起點不是一個人,而是"我們"。</center></h1>
+	<style>
+		body{background-color:#ADB9CA;}
+		h2{color:#4F4F4F}
+		H1{color:#000000;}
+
+	</style>
+</head>
+<body>
+<center><img height="600" width="1200" src="C:\網頁設計\網頁設計策展主題圖片.jpg"></center>
+<center><h1 style="background-color: 	#272727;">||<a href="#place"> 策展主題說明 </a>||<a href="#mv"> 策展團隊介紹 </a>||<a target="_blank"  href=hw2.html> 《Story》展 </a>||<a target="_blank" href=https://www.sanmin.com.tw/home> 三民書局 </a>||</center>
+<h1 id="place"><!--<hr><center> 策展主題說明 </center><hr>--></h1>
+
+<hr><center><h2><p>一則故事,兩個結局,三種感覺。</p></h2>
+<pre>
+<p><li>一則故事倘若一首歌,耐人尋味而不乏味。</p></li>
+<p><li>兩個結局有如一齣戲,歷歷在目而不轉目。</p></li>
+<p><li>三種感覺:視覺、聽覺及感覺。</p></li>
+<p><li>此展將帶領各位沉浸在我們的故事中。</p><hr></li></pre>
+</center>
+<h1 id="mv"><!--<center> 策展團隊介紹 </center>--></h1>
+<center><p>策展人名稱:小明</p>
+<p>就讀學校:國立聯合大學</p>
+<p>就讀科系:文化創意與數位行銷學系</p>
+<p>出生:2002/8/7(19歲)</p>
+<p>現居地:台灣</p>
+<p>職業:學生</p>
+<p>國籍:台灣</p></center>
+<center><img width="500" height="452" src="C:\網頁設計\小明.jpg"></center><hr>
+<center>
+<p>策展人名稱:小華</p>
+<p>就讀學校:國立聯合大學</p>
+<p>就讀科系:文化創意與數位行銷學系</p>
+<p>出生:2002/7/8(19歲)</p>
+<p>現居地:台灣</p>
+<p>職業:學生</p>
+<p>國籍:台灣</p>
+<center><img  src="C:\網頁設計\小華.jpg"></center><hr>
+<center>
+<p>策展人名稱:尉甫</p>
+<p>就讀學校:國立聯合大學</p>
+<p>就讀科系:文化創意與數位行銷學系</p>
+<p>出生:2002/12/6(18歲)</p>
+<p>現居地:台灣</p>
+<p>職業:學生</p>
+<p>國籍:台灣</p>
+<center><img width="400" height="500" src="C:\網頁設計\尉甫.jpg"></center><hr>
+
+<!--<hr><center><h1 id="information"> 線上主題書展 </h1></center><hr>-->
+<!--<hr><center><h1 id="car"> 三民書局 </h1></center><hr>-->
+
+
+
+
+</body>
+</html>
